@@ -1,0 +1,64 @@
+/*font-family: 'Merriweather', serif;*/
+*{
+	margin: 0;
+	padding: 0;
+}
+.body{
+	background-color: #160903;
+}
+.header{
+	height: 60px;
+	widows: auto;
+	background-color: #20130a;
+}
+.h1-header{
+	font-family: 'Kaushan Script', cursive;
+	color: #da7932;
+	text-transform: uppercase;
+	padding: 10px;
+	text-align: center;
+	font-size: 2em;
+}
+.bg-img{
+	background-image: url('../img/bg.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-bottom: 20%;
+}
+.bg-color{
+	background-color:rgba(32, 19, 10, 0.5);
+	height: auto;
+	width: 300px;
+	margin-left: 10px;
+}
+.btn-cat{
+	font-size: 30px;
+	height: 80px;
+	width: 100%;
+	border: 2px solid white;
+	text-align: center;
+	text-transform: capitalize;
+	margin: 10px 0;
+	font-family: 'Kaushan Script', cursive;
+	color: #da7932;
+	border-radius: 35%;
+	background-color: #20130a;
+}
+.card{
+	background-color: #20130a ;
+	color: #b6a18d;
+	font-family: 'Merriweather', serif;
+	font-size: 15px;
+}
+.footer{
+	background-color: #20130a;
+	height: 43px;
+	width: 100%;
+}
+.p-foot{
+	font-family: 'Kaushan Script', cursive;
+	color: #da7932;
+	padding-right: 10px;
+	padding-top: 20px;
+	text-align: right;
+}

@@ -1,0 +1,7 @@
+Paleta de colores
+
+#20130a marron 
+#da7932 naranja
+#b6a18d crema
+#160903 background
+
