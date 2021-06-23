@@ -1,4 +1,4 @@
-/*font-family: 'Merriweather', serif;*/
+/*Estilos iniciales para 320x568*/
 *{
 	margin: 0;
 	padding: 0;
@@ -23,7 +23,7 @@
 	background-image: url('../img/bg.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
-	padding-bottom: 20%;
+	padding-bottom: 30%;
 }
 .bg-color{
 	background-color:rgba(32, 19, 10, 0.5);
@@ -51,14 +51,27 @@
 	font-size: 15px;
 }
 .footer{
-	background-color: #20130a;
-	height: 43px;
-	width: 100%;
+	position:fixed;
+   	left:0px;
+   	bottom:0px;
+   	height:25px;
+   	width:100%;
+   	background: #20130a;
 }
 .p-foot{
 	font-family: 'Kaushan Script', cursive;
 	color: #da7932;
 	padding-right: 10px;
-	padding-top: 20px;
 	text-align: right;
+}
+@media screen and (max-width: 360px){
+	.bg-img{
+		padding-bottom: 45%;
+	}
+	.bg-color{
+		background-color:rgba(32, 19, 10, 0.5);
+		height: auto;
+		width: 340px;
+		margin-left: 10px;
+	}
 }
