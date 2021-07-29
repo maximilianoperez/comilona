@@ -5,3 +5,5 @@ Paleta de colores
 #b6a18d crema
 #160903 background
 
+#ddac22 nuevo color - reemplaza naranja 
+
