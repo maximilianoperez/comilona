@@ -15,7 +15,6 @@
 .logo{
 	height: 100%;
 	width: auto;
-	padding-top: 5px;
 }
 /*.h1-header{
 	font-family: 'Kaushan Script', cursive;
@@ -26,7 +25,7 @@
 	font-size: 2em;
 }*/
 .bg-img{
-	background-image: url('../img/bg.jpg');
+	background-image: url('../img/bg.png');
 	background-size: cover;
 	background-repeat: no-repeat;
 	padding-bottom: 30%;
@@ -45,7 +44,7 @@
 	text-transform: capitalize;
 	margin: 10px 0;
 	font-family: 'Kaushan Script', cursive;
-	color: #da7932;
+	color: #ddac22;
 	border-radius: 35%;
 	background-color: #20130a;
 }
@@ -65,7 +64,7 @@
 }
 .p-foot{
 	font-family: 'Kaushan Script', cursive;
-	color: #da7932;
+	color: #ddac22;
 	padding-right: 10px;
 	text-align: right;
 }
@@ -114,7 +113,7 @@
 		padding: 10px;
 	}
 	.fa-instagram, .fa-whatsapp, .fa-facebook, .fa-map-marker-alt{
-		color: #da7932;
+		color: #ddac22;
 	}
 	.footer{
 		height: 100px;
